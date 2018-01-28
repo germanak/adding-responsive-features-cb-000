@@ -68,3 +68,10 @@
     column-count: 1;
   }
 }
+
+@media (max-width: 700px) {
+
+  #navbar nav a {
+    display: none;
+  }
+}
